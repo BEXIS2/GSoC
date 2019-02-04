@@ -4,7 +4,7 @@ Here you can find our Idea List for the Google Summer of Code (GSoC). Check the 
 
 ### Who we are
 
-Most of us are working in the [fusion chair](http://fusion.cs.uni-jena.de/fusion/) of the University of Jena, Germany. We develop BExIS 2. We provide data management for several biodiversity research programms in Germany.
+Most of us are working in the [fusion chair](http://fusion.cs.uni-jena.de/fusion/) of the University of Jena, Germany. We develop (not just) BExIS 2 . We provide data management for several biodiversity research programms in Germany.
 
 ### About BEXIS 2
 
