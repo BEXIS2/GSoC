@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to our GSoC 2019 Idea List
 
-You can use the [editor on GitHub](https://github.com/BEXIS2/GSoC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find our Idea List for the Google Summer of Code (GSoC). Check the [GSoC main site](http://code.google.com/soc) for general information about the program, how to apply, timeline, faq, and more. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who we are
 
-### Markdown
+Most of us are working in the [fusion chair](http://fusion.cs.uni-jena.de/fusion/) of the University of Jena, Germany. We develop BExIS 2, an open source data management platform for research data. We provide data management for several biodiversity research programms in Germany.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About BEXIS2
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
