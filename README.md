@@ -12,7 +12,7 @@ Most of us are working in the [fusion chair](http://fusion.cs.uni-jena.de/fusion
 
 To strenghten the operation of BEXIS 2 within the data community we propose a set of ideas and would be very happy to welcome new collaborators. 
 
-## Idea List
+# Idea List :heavy_exclamation_mark:
 **1. Dataset Findability**  
 Finding relevant data is getting more and more important for scholars. Apart from conventional data portals, external search providers such as Google also offer first search applications over datasets. In order to better find and index BEXIS 2 data, the idea of this project is to enrich BEXIS2 metadata with additional information based on vocabulary such as schema.org, bioschema.org, DCAT, … That will allow external search providers to index and display open BEXIS 2 data properly and enhance the visibility of that datasets.  
 - Outcomes: Enriched html for every dataset page
