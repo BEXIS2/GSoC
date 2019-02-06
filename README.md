@@ -36,10 +36,9 @@ As next generation sequencing (NGS) technology continues to improve, the amount 
 
 **4.	Results Presentation**  
 As an information system for scientific data, BEXIS 2 tries to follow and fulfill the principles of FAIR data (https://www.go-fair.org/fair-principles/) as much as possible. So, one important task of BEXIS 2 is to make the data findable for humans. The main access point for humans (users) is the search. Currently, the results of a dataset search in our system are listed within a grid including typical functions, e.g. sorting, filtering and paging. But this representation does not to work well for a lot of scientists. They prefer a list view like Google offers. We would like to enhance the usability and user acceptance by offering both representations side-a-side. Based on the requirements of our partners that use BEXIS 2 (http://bexis2.uni-jena.de/community/partners-instances/), this enhancement must work with heterogeneous metadata schemas within a single instance and needs to be configurable at runtime.
-
 - Outcomes: BEXIS2 module
 - Skillset: Html, JavaScript, CSS, C#, ASP.NET, MVC 5
-- Possible mentors: Sven, David
+- Possible mentors: Sven, David, Neha
 - Project complexity: Medium
 
 **5.	Enhance Search:  Geographic Visualization of Research Data**  
@@ -64,7 +63,7 @@ Provenance of a data product is the description of the sequences of steps togeth
 - Possible mentors: Sheeba, David
 - Project complexity: Medium
 
-**Multi-lingual indexing and search**  
+**8. Multi-lingual indexing and search**  
 Many datasets are produced in different languages. Their structural and conceptual information is based on the domain experts' knowledge and expertise that may differ from country to country. So having some ontologies applied to integrate these kinds of varieties would make the search and discovery more natural. For example, an English scientist may search a German repository using her domain concepts and natural language (English here). The search engine would convert the domain concepts to the German domain as well as the English search terms to their German equivalent, performs the search, and presents the result with augmented information so that the scientist understands the result. It seems to be a big work package, but for the summer camp, it can be kept small and experimental.
 - Outcomes: BEXIS2 module with integrated sematic information
 - Skillset: C#, Ontologies
