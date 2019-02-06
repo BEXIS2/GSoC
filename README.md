@@ -64,9 +64,9 @@ Provenance of a data product is the description of the sequences of steps togeth
 
 **8. Multi-lingual indexing and search**  
 Many datasets are produced in different languages. Their structural and conceptual information is based on the domain experts' knowledge and expertise that may differ from country to country. So having some ontologies applied to integrate these kinds of varieties would make the search and discovery more natural. For example, an English scientist may search a German repository using her domain concepts and natural language (English here). The search engine would convert the domain concepts to the German domain as well as the English search terms to their German equivalent, performs the search, and presents the result with augmented information so that the scientist understands the result. It seems to be a big work package, but for the summer camp, it can be kept small and experimental.
-- Outcomes: BEXIS2 module with integrated sematic information
-- Skillset: C#, Ontologies
-- Possible mentors: Javad, Alsayed
+- Outcomes: Ontology, annotation, search index, index files
+- Skillset: Protege, Lucene, Solr, Java or .Net, Html
+- Possible mentors: Javad, Alsayed, Jan Martin, Sirko
 - Project complexity: Hard
 
 
