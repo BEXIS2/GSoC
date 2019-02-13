@@ -45,7 +45,7 @@ BEXIS2 provides a faceted search on metadata. However, research data within BEXI
 Within this project geographic visualization techniques together with an advanced search and filtering facility using spatial information should be developed and implemented. 
 - Outcomes: Search with geographical interface
 - Skillset: Html, JavaScript, CSS, C#, ASP.NET, MVC 5
-- Possible mentors: Sven Roman, Franziska
+- Possible mentors: Sven, Roman, Franziska
 - Project complexity: Medium
 
 **6.	Web Mapping Integration for Graphical Research Area Management Module**  
